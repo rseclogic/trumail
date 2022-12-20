@@ -9,8 +9,8 @@ import (
 	"github.com/s32x/httpclient"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
-	"github.com/sdwolfe32/trumail/api"
-	"github.com/sdwolfe32/trumail/verifier"
+	"github.com/rseclogic/trumail/api"
+	"github.com/rseclogic/trumail/verifier"
 )
 
 var (
