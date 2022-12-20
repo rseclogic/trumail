@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/entrik/httpclient"
+	"github.com/s32x/httpclient"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 	"github.com/sdwolfe32/trumail/api"
